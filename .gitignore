@@ -1,0 +1,17 @@
+# PlatformIO
+.pio/
+
+# ESP-IDF build
+build/
+sdkconfig
+managed_components/
+
+# VS Code
+.vscode/
+
+# Python
+*.pyc
+__pycache__/
+
+# Logs
+*.log
